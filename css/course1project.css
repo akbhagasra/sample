@@ -1,0 +1,39 @@
+header{
+	text-align: center;
+	background: grey;
+}
+body{
+	background: #B3B3B3;
+}
+h1{
+	color:white;
+}
+a{
+	color: #000099;
+	font-variant: small-caps;
+}
+footer{
+	background: #808080;
+	margin-top: 10%;
+}
+img{
+	width: 100px;
+	height: 50px;
+}
+body{
+	margin: 5%;
+}
+div{
+	display: inline-block;
+	width: 20%;
+	border: solid;
+	vertical-align: top;
+
+}
+h2{
+	background: yellow;
+}
+main{
+	margin-top: 10%;
+	margin-bottom: 10%;
+}
